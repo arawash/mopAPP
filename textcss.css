@@ -1,0 +1,17 @@
+
+div.container {
+background-color: #ffffff;
+}
+div.container p ,p {
+text-align: center;
+font-family: Arial;
+font-size: 14px;
+font-style: normal;
+font-weight: bold;
+text-decoration: none;
+text-transform: uppercase;
+color: #000000;
+background-color: #ffffff;
+align-items: center;
+
+}
